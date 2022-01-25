@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26315" started-at="2022-01-25T13:33:10 EST" finished-at="2022-01-25T13:33:36 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26315" started-at="2022-01-25T13:33:10 EST" finished-at="2022-01-25T13:33:36 EST">
+      <class name="com.HomeDepot.Test_Scripts.CreateAccountTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.HomeDepot.Test_Scripts.CreateAccountTest@9a7504c]" name="beforeClass" is-config="true" duration-ms="12" started-at="2022-01-25T13:33:10 EST" finished-at="2022-01-25T13:33:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HomeDepot.Test_Scripts.CreateAccountTest@9a7504c]" name="setUp" is-config="true" duration-ms="6929" started-at="2022-01-25T13:33:10 EST" finished-at="2022-01-25T13:33:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createAcct()[pri:0, instance:com.HomeDepot.Test_Scripts.CreateAccountTest@9a7504c]" name="createAcct" duration-ms="14146" started-at="2022-01-25T13:33:17 EST" finished-at="2022-01-25T13:33:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAcct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HomeDepot.Test_Scripts.CreateAccountTest@9a7504c]" name="tearDown" is-config="true" duration-ms="4503" started-at="2022-01-25T13:33:31 EST" finished-at="2022-01-25T13:33:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.HomeDepot.Test_Scripts.CreateAccountTest@9a7504c]" name="afterClass" is-config="true" duration-ms="669" started-at="2022-01-25T13:33:35 EST" finished-at="2022-01-25T13:33:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.HomeDepot.Test_Scripts.CreateAccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
